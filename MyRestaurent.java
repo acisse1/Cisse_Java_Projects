@@ -188,9 +188,6 @@ public class MyRestaurent extends JFrame {
 
             }
         });
- 
- 
-
 
     }
 
